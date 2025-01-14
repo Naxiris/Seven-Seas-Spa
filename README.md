@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/Naxiris-Developer%20-blue)
+
 ### Seven-Seas-Spa
 ## Overview
 
